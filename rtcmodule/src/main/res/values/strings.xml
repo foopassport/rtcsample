@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RtcModule</string>
+
+    <string name="http">https</string>
+    <string name="host">lianhezhongsheng.jios.org</string>
+    <string name="port">10032</string>
+    <string name="action_settings">Options</string>
+
+</resources>
